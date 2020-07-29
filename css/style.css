@@ -1,0 +1,42 @@
+.c_box{
+
+}
+.box{
+	width: 200px;
+    min-height: 100px;
+    background-color: #dedede;
+    margin-bottom: 5px;
+    margin-right: 5px;
+}
+h2{
+	margin-top: 50px;
+    text-align: center;
+}
+p{
+	margin-left: 50px;
+}
+.ifram{
+	width: 560px;
+	height: 315px;
+}
+.f-c{
+	background-color: #dedede;
+}
+.b-c{
+	background-color: grey;
+	color: #fff;
+}
+.sm_shadow{
+	    box-shadow: 0 .125rem .25rem rgba(0,0,0,.075)!important; 
+}
+.r_shadow{
+	box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+}
+.l_shadow{
+	box-shadow: 0 1rem 3rem rgba(0,0,0,.175)!important;
+}
+.box_o{
+	max-width: 260px;
+	max-height: 100px;
+	margin-right: 20px;
+}
